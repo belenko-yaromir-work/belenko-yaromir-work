@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я Яромир 👋
 
-<!--
-**belenko-yaromir-work/belenko-yaromir-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Обо мне
+Я занимаюсь Python-разработкой и 3D-моделированием. Моя цель — поступление на **ФКН ВГУ** и развитие в ИТ-сфере.
 
-Here are some ideas to get you started:
+### 💻 Навыки и обучение
+*   **Python**: Завершаю обучение в **Яндекс Лицее**. Знаю основы ООП, алгоритмов, работу с декораторами и классами.
+*   **3D Modeling**: Выпускник **Школы креативных индустрий «Матрешка»** по направлению Blender. Создаю несложные Low-poly модели.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Стек технологий:
+![Python](https://shields.io) ![Blender](https://shields.io) ![GitHub](https://shields.io)
+
+---
+**Могу помочь с:**
+* Написанием простых скриптов и Telegram-ботов на Python.
+* Созданием несложных Low-poly 3D-моделей в Blender.
